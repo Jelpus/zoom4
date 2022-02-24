@@ -25,12 +25,12 @@ export default {
   },
   data () {
     return {
-      apiKey: "",
-      leaveUrl: "http://localhost:8080",
-      meetingNumber: "123456789",
-      passWord: "",
+      apiKey: "WpJmaaPiQ66fT95YZF0fFg",
+      leaveUrl: "http://www.google.com",
+      meetingNumber: "2881965209",
+      passWord: "jelpus123",
       role: 0,
-      signatureEndpoint: "",
+      signatureEndpoint: "https://contacto-jelpus-zoom.herokuapp.com/",
       userEmail: "",
       userName: "Vue.js",
       // pass in the registrant's token if your meeting or webinar requires registration. More info here:
